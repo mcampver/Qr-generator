@@ -54,4 +54,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[1.0.0]: https://github.com/yourusername/qr-business-card-generator/releases/tag/v1.0.0
+[1.0.0]: https://github.com/mcampver/Qr-generator/releases/tag/v1.0.0

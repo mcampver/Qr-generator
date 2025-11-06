@@ -5,6 +5,8 @@ A Python application that generates QR codes for business cards with a custom lo
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![GitHub release](https://img.shields.io/github/v/release/mcampver/Qr-generator)
+![GitHub stars](https://img.shields.io/github/stars/mcampver/Qr-generator?style=social)
 
 ## ✨ Features
 
@@ -47,8 +49,8 @@ The application generates a professional QR code with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qr-business-card.git
-cd qr-business-card
+git clone https://github.com/mcampver/Qr-generator.git
+cd Qr-generator
 ```
 
 2. Install dependencies:
