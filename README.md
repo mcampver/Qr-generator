@@ -15,18 +15,26 @@ A Python application that generates QR codes for business cards with a custom lo
 - 💾 **Easy Export**: Generates high-quality PNG files
 - 🖥️ **Cross-platform**: Works on Windows, macOS, and Linux
 
-## 📸 Preview
+## 📸 What You Get
 
 The generated QR code includes:
-- Full name (displayed correctly on all devices)
-- Company/Organization
-- Job title
-- Phone number
-- Email address
-- Website (optional)
-- Address (optional)
+- ✅ Full name (displayed correctly on all devices)
+- ✅ Company/Organization
+- ✅ Job title
+- ✅ Phone number
+- ✅ Email address
+- ✅ Website (optional)
+- ✅ Address (optional)
 
-When scanned, the contact information is automatically saved to the phone's contact list.
+When scanned with a smartphone camera, the contact information is automatically recognized and can be saved to the phone's contact list with a single tap.
+
+### Example Output
+
+The application generates a professional QR code with:
+- Your custom logo in the center with circular background
+- Custom color scheme (default: #292B3A)
+- High error correction for reliable scanning
+- Optimized size for printing on business cards
 
 ## 🚀 Quick Start
 
